@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_2{
+fill: #E1E1E1;
+}
+.g1_2{
+fill: none;
+stroke: #000000;
+stroke-width: 1.069;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_2{
+fill: none;
+stroke: #A6A6A6;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3_2{
+fill: none;
+stroke: #000000;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g4_2{
+fill: none;
+stroke: #333F60;
+stroke-width: 1.527;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g5_2{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.381;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<path fill-rule="evenodd" d="M54.9,54.9H854.4V85.6H54.9V54.9Z" class="g0_2"/>
+<path fill-rule="evenodd" d="M54.9,904.7H854.4v30.7H54.9V904.7Z" class="g0_2"/>
+<path fill-rule="evenodd" d="M54.9,1087.5H854.4v30.8H54.9v-30.8Z" class="g0_2"/>
+<path fill-rule="evenodd" d="M54.9,54.9H854.4V85.6H54.9V54.9Z" class="g0_2"/>
+<path fill-rule="evenodd" d="M54.9,904.7H854.4v30.7H54.9V904.7Z" class="g0_2"/>
+<path fill-rule="evenodd" d="M54.9,1087.5H854.4v30.8H54.9v-30.8Z" class="g0_2"/>
+<path d="M55.2,473.2h81.2M81.6,962h115m-115,22.7H320.4M81.6,1007.1H302.3M81.6,1029.6H188.2m-105.5,24H254.2M110,1144.8H368m4,0H572.8M110,1173.5H467.8M110,1202.2H346.5" class="g1_2"/>
+<path d="M55,55.4H854.4" class="g2_2"/>
+<path d="M854.4,85.3H55" class="g3_2"/>
+<path d="M55,905.5H854.4" class="g4_2"/>
+<path d="M854.4,935.2H55" class="g5_2"/>
+<path d="M55,1088.4H854.4" class="g4_2"/>
+<path d="M854.4,1118.1H55" class="g5_2"/>
+<path d="M55,55.4H854.4" class="g2_2"/>
+<path d="M854.4,85.3H55" class="g3_2"/>
+<path d="M55,905.5H854.4" class="g4_2"/>
+<path d="M854.4,935.2H55" class="g5_2"/>
+<path d="M55,1088.4H854.4" class="g4_2"/>
+<path d="M854.4,1118.1H55" class="g5_2"/>
+</svg>
