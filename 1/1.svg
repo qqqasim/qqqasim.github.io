@@ -5,52 +5,27 @@
 <defs>
 <style type="text/css"><![CDATA[
 .g0_1{
-fill: #E1E1E1;
+fill: #E0E0E0;
 }
 .g1_1{
-fill: none;
-stroke: #000000;
-stroke-width: 0.916;
-stroke-linecap: butt;
-stroke-linejoin: miter;
+fill: #244061;
 }
 .g2_1{
-fill: none;
-stroke: #000000;
-stroke-width: 1.069;
-stroke-linecap: butt;
-stroke-linejoin: miter;
+fill: #FFFFFF;
 }
 .g3_1{
-fill: none;
-stroke: #244061;
-stroke-width: 1.145;
-stroke-linecap: butt;
-stroke-linejoin: round;
-}
-.g4_1{
-fill: none;
-stroke: #FFFFFF;
-stroke-width: 1.527;
-stroke-linecap: butt;
-stroke-linejoin: round;
-}
-.g5_1{
-fill: none;
-stroke: #254061;
-stroke-width: 3.437;
-stroke-linecap: butt;
-stroke-linejoin: round;
 }
 ]]></style>
 </defs>
-<path fill-rule="evenodd" d="M54.9,134.1H854.4v46.3H54.9V134.1Z" class="g0_1"/>
-<path fill-rule="evenodd" d="M54.9,134.1H854.4v46.3H54.9V134.1Z" class="g0_1"/>
-<path d="M55,535.3h8.7m.2,0h16m0,0h9.8m-.2,0H192.2" class="g1_1"/>
-<path d="M55.2,737.9h52.7M55.2,1122.6h76.3" class="g2_1"/>
-<path d="M55,134.8H854.4" class="g3_1"/>
-<path d="M854.4,179.6H55" class="g4_1"/>
-<path d="M55,134.8H854.4" class="g3_1"/>
-<path d="M854.4,179.6H55" class="g4_1"/>
-<path d="M134.6,98.9l653.7,-2" class="g5_1"/>
+<image preserveAspectRatio="none" x="34" y="108" width="634" height="74" xlink:href="img/1.png"/>
+<path fill-rule="evenodd" d="M52.8,205.7H856.9V162.1H52.8v43.6Z" class="g0_1"/>
+<image preserveAspectRatio="none" x="289" y="162" width="328" height="53" xlink:href="img/2.png"/>
+<image preserveAspectRatio="none" x="592" y="166" width="40" height="46" xlink:href="img/3.png"/>
+<path fill-rule="evenodd" d="M52.8,162.1H856.9V161H52.8v1.1Z" class="g1_1"/>
+<path fill-rule="evenodd" d="M52.8,207.2H856.9v-1.5H52.8v1.5Z" class="g2_1"/>
+<path fill-rule="evenodd" d="M55,565.5H192.5v-.9H55v.9Z" class="g3_1"/>
+<path fill-rule="evenodd" d="M55,769.7h45.3v-1.1H55v1.1Z" class="g3_1"/>
+<path fill-rule="evenodd" d="M55,1135.4h69.2v-1.1H55v1.1Z" class="g3_1"/>
+<image preserveAspectRatio="none" x="95" y="44" width="105" height="107" xlink:href="img/4.png"/>
+<image preserveAspectRatio="none" x="241" y="49" width="356" height="102" xlink:href="img/5.png"/>
 </svg>
