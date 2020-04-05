@@ -1,3 +1,4 @@
-{"pages":[{"page":2,"annotations":[{"type":"Link","bounds":[604,1209,132,23],"objref":"69"},
-{"type":"Link","bounds":[80,1209,517,23],"objref":"68"},
-{"type":"Link","bounds":[80,1097,518,23],"objref":"65"}]},{"page":3,"annotations":[{"type":"Link","bounds":[80,130,532,40],"objref":"72"}]}]}
+{"pages":[{"page":1,"annotations":[{"type":"Link","bounds":[399,182,208,22],"objref":"16"}]},{"page":2,"annotations":[{"type":"Link","bounds":[162,452,153,19],"objref":"40"},
+{"type":"Link","bounds":[162,547,596,19],"objref":"41"},
+{"type":"Link","bounds":[162,338,575,20],"objref":"38"},
+{"type":"Link","bounds":[162,433,576,20],"objref":"39"}]}]}

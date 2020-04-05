@@ -1,1 +1,1 @@
-IDRViewer.config = {"pagecount":3,"title":"","author":"x","fileName":"Linux_System_Engineer-08032020.pdf","bounds":[[909,1286],[909,1286],[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
+IDRViewer.config = {"pagecount":2,"title":"","author":"Windows User","fileName":"Muhammad_Qasim_04072020.pdf","bounds":[[935,1210],[935,1210]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};

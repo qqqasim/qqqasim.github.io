@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <style type="text/css"><![CDATA[
 .g0_1{
 fill: #E0E0E0;
 }
 .g1_1{
-fill: #244061;
+fill: #333F60;
 }
 .g2_1{
 fill: #FFFFFF;
 }
 .g3_1{
+fill: #0000FF;
 }
 ]]></style>
 </defs>
-<image preserveAspectRatio="none" x="34" y="108" width="634" height="74" xlink:href="img/1.png"/>
-<path fill-rule="evenodd" d="M52.8,205.7H856.9V162.1H52.8v43.6Z" class="g0_1"/>
-<image preserveAspectRatio="none" x="289" y="162" width="328" height="53" xlink:href="img/2.png"/>
-<image preserveAspectRatio="none" x="592" y="166" width="40" height="46" xlink:href="img/3.png"/>
-<path fill-rule="evenodd" d="M52.8,162.1H856.9V161H52.8v1.1Z" class="g1_1"/>
-<path fill-rule="evenodd" d="M52.8,207.2H856.9v-1.5H52.8v1.5Z" class="g2_1"/>
-<path fill-rule="evenodd" d="M55,565.5H192.5v-.9H55v.9Z" class="g3_1"/>
-<path fill-rule="evenodd" d="M55,769.7h45.3v-1.1H55v1.1Z" class="g3_1"/>
-<path fill-rule="evenodd" d="M55,1135.4h69.2v-1.1H55v1.1Z" class="g3_1"/>
-<image preserveAspectRatio="none" x="95" y="44" width="105" height="107" xlink:href="img/4.png"/>
-<image preserveAspectRatio="none" x="241" y="49" width="356" height="102" xlink:href="img/5.png"/>
+<path fill-rule="evenodd" d="M107.8,171.8H827.3v-42H107.8v42Z" class="g0_1"/>
+<image preserveAspectRatio="none" x="108" y="123" width="315" height="66" xlink:href="img/1.png"/>
+<path fill-rule="evenodd" d="M107.8,129.8H827.3v-1.5H107.8v1.5Z" class="g1_1"/>
+<path fill-rule="evenodd" d="M107.8,172.2H827.3v-.4H107.8v.4Z" class="g2_1"/>
+<path fill-rule="evenodd" d="M402.7,202.1H602.4v-1.3H402.7v1.3Z" class="g3_1"/>
 </svg>
